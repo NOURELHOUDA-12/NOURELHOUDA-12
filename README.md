@@ -77,5 +77,6 @@ Smart Tech (FSB) • Art Of Code (FSB)
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habassi-nour-elhouda-74a49322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
+habessi-nour-elhouda-74a49322b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nourelhouda.habassi@fsb.ucar.tn)
